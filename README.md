@@ -3,13 +3,6 @@
 Proyecto 3 — Frameworks y Herramientas para Big Data  
 Uso de Arquitectura Lakehouse en Azure Databricks con pipeline de ingesta y cargue de datos.
 
-## Integrantes
-- Luz Ángela Carabalí
-- [Agregar integrantes]
-
-## Profesor
-Oscar Andrés Jiménez Villanueva
-
 ---
 
 # Objetivo
