@@ -89,13 +89,14 @@ analytics-medallion-stack/
 │   └── orchestrator.ipynb
 │
 ├── diagrams/
-│   └── medallion_architecture.png
-│
-├── queries/
-│   └── duckdb_queries.sql
+│   └── medallion_architecture.jpeg
 │
 ├── powerbi/
-│   └── dashboard.pbix
+│   └── proyecto-3.pbix
 │
-├── README.md
-└── requirements.txt
+├── doc/
+│   ├── Proyecto 3 - Frameworks y herramientas para big data.pdf
+│   ├── Rubrica Proyecto 3 - Frameworks y herramientas para big data.xlsx
+│   └── Despleiegue Lakehouse con Databricks en Azure.pdf
+│
+└── README.md
